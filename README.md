@@ -22,11 +22,16 @@ Soy una profesional de la Informática con una sólida trayectoria liderando pro
 - MySQL
 - HTML5
 
+**Idiomas**
+- Español (Nativo)
+- Inglés (Pre-Intermediate 1) - Estudiando en Ciudad Bilingüe 🌍
+
 ---
 
 ## 📈 Formación Reciente
 
-- **Iniciación a la programación Python** – Talento Tech (Marzo 2026)
+- **Inglés Pre-Intermediate 1** – Ciudad Bilingüe (En curso)
+- **Iniciación a la programación Python** – Talento Tech (En curso - Finaliza Julio/Agosto 2026)
 - **Business Intelligence** – Talento Tech (Diciembre 2025)
 - **Diseño UX/UI** – Codo a Codo
 
@@ -38,6 +43,7 @@ Soy una profesional de la Informática con una sólida trayectoria liderando pro
 - 📧 [maglisromero@gmail.com](mailto:maglisromero@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/TU_USUARIO)
 - 🎨 [Instagram Profesional](https://instagram.com/TU_USUARIO)
+- 🔗 [GitHub](https://github.com/romeromaglis)
 
 ---
 
