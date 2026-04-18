@@ -46,4 +46,4 @@ Soy una profesional de la Informática con una sólida trayectoria liderando pro
 
 ---
 
-*¡Bienvenido a mi portafolio! Aquí encontrarás mis proyectos en análisis de datos y business intelligence.* 📊
+*¡Bienvenido a mi portafolio! Aquí encontrarás mis proyectos en análisis de datos y business intelligence y UX/UI.* 📊
