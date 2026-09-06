@@ -1,11 +1,11 @@
-# ¡Hola! Soy Maglis Romero 👋
+# ¡Hola! "Soy"Maglis Romero 👋
 
 ### Analista de Datos | Business Intelligence | Python
 
 Profesional de la Tecnología, Negocio y Datos con mas de 25 años de experiencia en desarrollo de software, análisis de procesos, gestión comercial y liderazgo de equipos.
 
 Actualmente enfoco mi experiencia de negocio en el análisis de datos y Business Intelligence, desarrollando soluciones que transforman información en indicadores, visualizaciones y herramientas para la toma de decisiones.
-- 📊 **¿Qué hago?**:
+### 📊 **¿Qué hago?**:
 - Desarrollo dashboards e indicadores para facilitar la toma de decisiones.
 - Análisis y estructuración de datos provenientes de diferentes fuentes.
 - Automatización de procesos anteriormente realizados de forma manual.
@@ -13,23 +13,23 @@ Actualmente enfoco mi experiencia de negocio en el análisis de datos y Business
 - Análisis y mejora de procesos.
 - Integración de tecnología, datos y conocimiento del negocio.
   
-- 🛠️ **Tecnología y herramientas**:
+### 🛠️ **Tecnología y herramientas**:
 - **Análisis y BI"
-- - Power BI
+  - Power BI
   - Looker Studio
   - Excel avanzado
   - KPIs y Dashboards
   - Business Intelligence
   - Data Analysis
  
-  - **Datos y programación**
+- **Datos y programación**
   - Python
   - Pandas
   - SQLLite
   - SQL
   - Flask
  
-  - **Herramientas**
+- **Herramientas**
   - Git / Github
   - Figma
     
