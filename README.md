@@ -1,4 +1,4 @@
-# ¡Hola! "Soy"Maglis Romero 👋
+# ¡Hola! Soy Maglis Romero 👋
 
 ### Analista de Datos | Business Intelligence | Python
 
