@@ -1,41 +1,57 @@
 # ¡Hola! Soy Maglis Romero 👋
 
-### Analista de Datos | Power BI | Business Intelligence
+### Analista de Datos | Business Intelligence | Python
 
-Soy una profesional de la Informática con una sólida trayectoria liderando proyectos tecnológicos y comerciales. Actualmente, me especializo en transformar datos complejos en tableros visuales que facilitan la toma de decisiones estratégicas, con enfoque particular en el sector salud.
+Profesional de la Tecnología, Negocio y Datos con mas de 25 años de experiencia en desarrollo de software, análisis de procesos, gestión comercial y liderazgo de equipos.
 
-- 📊 **¿Qué hago?**: Desarrollo dashboards en Power BI y Excel para generar indicadores clave y automatizar reportes.
-- 🛠️ **Mi enfoque**: Limpieza, estandarización y modelado de datos para asegurar información precisa y accionable.
-- 📚 **Aprendizaje continuo**: Actualmente profundizo mis conocimientos en Python aplicado a datos y Business Intelligence.
+Actualmente enfoco mi experiencia de negocio en el análisis de datos y Business Intelligence, desarrollando soluciones que transforman información en indicadores, visualizaciones y herramientas para la toma de decisiones.
+- 📊 **¿Qué hago?**:
+- Desarrollo dashboards e indicadores para facilitar la toma de decisiones.
+- Análisis y estructuración de datos provenientes de diferentes fuentes.
+- Automatización de procesos anteriormente realizados de forma manual.
+- Desarrollo de soluciones con Python, Flask y SQLite.
+- Análisis y mejora de procesos.
+- Integración de tecnología, datos y conocimiento del negocio.
+  
+- 🛠️ **Tecnología y herramientas**:
+- **Análisis y BI"
+- - Power BI
+  - Looker Studio
+  - Excel avanzado
+  - KPIs y Dashboards
+  - Business Intelligence
+  - Data Analysis
+ 
+  - **Datos y programación**
+  - Python
+  - Pandas
+  - SQLLite
+  - SQL
+  - Flask
+ 
+  - **Herramientas**
+  - Git / Github
+  - Figma
+    
+### 💼 Experiencia de negocio
+ Mi trayectoria combina tecnología y negocio, con experiencia en:
+   - Análisis comercial y negociación.
+   - Análisis de costos, valores, históricos e indicadores.
+   - Gestión de clientes estratégicos.
+   - Liderazgo comercial y coordinación entre áreas.
+   - Análisis y mejora de procesos.
 
----
-
-## 🚀 Tecnologías y Herramientas
-
-**Análisis y BI**
-- Power BI
-- Excel
-- Looker Studio
-
-**Datos y Programación**
-- Python
-- MySQL
-- HTML5
-
-**Idiomas**
-- Español (Nativo)
-- Inglés (Pre-Intermediate 1) - Estudiando en Ciudad Bilingüe 🌍
-
----
-
-## 📈 Formación Reciente
-
-- **Inglés Pre-Intermediate 1** – Ciudad Bilingüe (En curso)
-- **Iniciación a la programación Python** – Talento Tech (En curso - Finaliza Julio/Agosto 2026)
-- **Business Intelligence** – Talento Tech (Diciembre 2025)
-- **Diseño UX/UI** – Codo a Codo
-
----
+### 📚 Formación continua
+Actualmente continúo profundizando mis conocimientos en:
+    - Python aplicado a datos
+    - Business Intelligence
+    - Machine Learning
+    - Análisis y visualización de datos
+    
+### 🎯 Actualmente
+Estoy enfocando mi experiencia profesional hacia roles de:
+**Data Analytics | Business Intelligence | Sales Analytics | Business Analysis
+Siempre buscando transformar datos en información útil para el negocio.
 
 ## 🤝 Contacto y Redes
 
